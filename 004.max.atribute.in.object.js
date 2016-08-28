@@ -16,5 +16,3 @@ for (var name in salaries){
 }
 
 console.log(max_name);
-
-
